@@ -1,0 +1,11 @@
+if game.PlaceId == 2753915549 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()
+	elseif game.PlaceId == 13822889 then
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBARMYSCRIPTER/NOOBARMYSCRIPTER/main/AXE%20LOOP%20SCRIPT", true))();
+elseif game.PlaceId == 7560156054 then
+loadstring(game:HttpGet('https://reddyhub.xyz/loader.html'))()
+elseif game.PlaceId == 1537690962 then
+loadstring(game:GetObjects("rbxassetid://4384103988")[0X1].Source)("Pepsi Swarm")
+elseif game.PlaceId == 2753915549 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()
+end
